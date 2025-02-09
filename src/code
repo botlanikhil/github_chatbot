@@ -1,0 +1,6 @@
+pip install speechrecognition
+pip install pyaudio
+pip install pygithub
+pip install speechrecognition
+pip install gtts  # For text-to-speech
+pip install openai-whisper
