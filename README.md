@@ -19,4 +19,4 @@ This project enables hands-free interaction with GitHub, allowing users to creat
 
 ### **1️⃣ Install Dependencies**  
 ```bash
-pip install speechrecognition pyaudio pygithub gtts openai-whisper
+
